@@ -1,14 +1,16 @@
 body{
-    background-color: black;
+    /* background-color: #f5f5f5; */
+    background: linear-gradient(45deg, black, aqua);
     text-align:center;
+    align-items: center;
+    justify-content: center;
 }
 .mnc{
     background-color: black;
     
 }
 .navbar a{
-    /* color:#035096; */
-    /* color:aqua; */
+
     color:aqua;
     border-radius: 15px;
     transition: transform .4s;
@@ -18,7 +20,6 @@ body{
 .navbar a:hover{
     color:black;
     background-color: aqua;
-    /* background-color: rgb(58, 235, 58); */
     /* text-decoration: underline overline; */
     -ms-transform: scale(1.1); /* IE 9 */
     -webkit-transform: scale(1.1); /* Safari 3-8 */
@@ -26,4 +27,20 @@ body{
 }
 .navbar button{
     background-color:aqua;
+}
+
+.bottom-container{
+    text-align: center;
+    padding:30px;
+    background-color: black;
+}
+.bottom-container a,p{
+    color:aqua;
+    margin-left: 50px;
+    margin-top:30px;
+    text-decoration: none;
+
+}
+.bottom-container a:hover{
+    color:white;
 }
