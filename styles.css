@@ -1,7 +1,23 @@
 body{
-    background-color: #035096;
+    background-color: #003f76;
     text-align:center;
 }
-h1{
-    color:#7DF9FF;
+.mnc{
+    /* background-color:#7DF9FF; */
+    background-color:aqua;
+}
+.navbar a{
+    color:#035096;
+    border-radius: 15px;
+    transition: transform .4s;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+.navbar a:hover{
+    color:white;
+    background-color: #035096;
+    text-decoration: underline overline;
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);
 }
