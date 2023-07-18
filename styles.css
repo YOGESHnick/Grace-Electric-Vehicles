@@ -39,11 +39,22 @@ body{
 .bottom-container a{
     /* color:aqua; */
     color:#f5f5f5;
-    margin-left: 50px;
-    margin-top:30px;
+    /* margin-left: 50px; */
+    /* margin-top:30px; */
     text-decoration: none;
 
 }
 .bottom-container a:hover{
     color:gray;
+}
+
+.motto{
+    max-width: 100px;
+}
+ul{
+    list-style-type: none;
+}
+
+.zandertech{
+    font-size: 8px;
 }
