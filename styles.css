@@ -67,4 +67,6 @@ ul{
 .container-fluid button{
     border: none;
     background-color: #f5f5f5;
+    max-width: 37px;
+    max-height: 37px;
 }
