@@ -1,6 +1,6 @@
 body{
-    /* background-color: #f5f5f5; */
-    /* background: linear-gradient(45deg, black, aqua); */
+    background-color: #f5f5f5;
+    /* background: linear-gradient(45deg, black, aqua);  */
     text-align:center;
     align-items: center;
     justify-content: center;
@@ -57,4 +57,12 @@ ul{
 
 .zandertech{
     font-size: 8px;
+}
+.logo{
+    max-width: 37px;
+    max-height: 37px;
+    border:none;
+}
+button{
+    border: none;
 }
