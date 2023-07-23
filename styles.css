@@ -63,6 +63,7 @@ ul{
     max-height: 37px;
     border:none;
     /* background-color: #f5f5f5; */
+    /* display: flex; */
 }
 .container-fluid button{
     border: none;
@@ -70,3 +71,6 @@ ul{
     max-width: 37px;
     max-height: 37px;
 }
+/* button{
+    display: flex;
+} */
