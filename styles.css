@@ -96,6 +96,11 @@ ul{
     text-decoration:none;
     cursor: pointer;
 }
+
+.about a:hover{
+    color:gray;
+}
+
 .about p{
     font-family: Ubuntu;
     font-size: 1.5rem;
