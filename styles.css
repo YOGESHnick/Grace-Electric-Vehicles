@@ -74,3 +74,35 @@ ul{
 /* button{
     display: flex;
 } */
+
+.home{
+    max-width:350px;
+    max-height: 350px;
+}
+
+.home-cen{
+    font-family: Electrolize;
+    font-style: bold;
+    font-weight: 900;
+    color:aqua;
+}
+.home-cen span{
+    color:aqua;
+    font-weight: 900;
+    font-style: bold;
+    background-color: black;
+}
+.about a{
+    text-decoration:none;
+    cursor: pointer;
+}
+.about p{
+    font-family: Ubuntu;
+    font-size: 1.5rem;
+}
+
+.about img{
+    max-width:30px;
+    max-height:30px;
+    margin-left:10px;
+}
