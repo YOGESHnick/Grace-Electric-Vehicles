@@ -139,7 +139,7 @@ form h3{
     margin-top: 3rem;
 }
 
-form input,textarea{
+form input,textarea,select{
     color: black;
     background-color: gray;
     border: none;
@@ -157,7 +157,7 @@ form button:hover
 
 ::placeholder {
     color: black;
-    opacity: 1; /* Firefox */
+    opacity: 1;
   }
 
 .form {
