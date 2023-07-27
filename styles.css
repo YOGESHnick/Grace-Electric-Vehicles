@@ -65,12 +65,7 @@ ul{
     /* background-color: #f5f5f5; */
     /* display: flex; */
 }
-.container-fluid button{
-    border: none;
-    background-color: #f5f5f5;
-    max-width: 37px;
-    max-height: 37px;
-}
+
 
 .home{
     max-width:350px;
@@ -180,4 +175,23 @@ form button:hover
     font-weight: 800;
     margin-bottom:3rem;
     margin-top: 3rem;
+}
+
+/* vehicles */
+
+.vehicles{
+    background-color: black;
+    color: #f5f5f5;
+    max-width: 200px;
+    max-height: 200px;
+    text-align: left;
+}
+
+.card{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.card button{
+    width:100px;
 }
