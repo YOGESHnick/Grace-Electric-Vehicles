@@ -209,5 +209,5 @@ form button:hover
 .card button:hover {
     background-color: gray;
     color: white;
-    /* box-shadow: 0 12px 16px 0 aqua,0 17px 50px 0 aqua; */
+    box-shadow: 0 12px 16px 0 aqua,0 17px 50px 0 aqua;
 }
