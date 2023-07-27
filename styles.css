@@ -4,11 +4,13 @@ body{
     text-align:center;
     align-items: center;
     justify-content: center;
+    padding-left: 20px;
 }
 .mnc{
     background-color: #f5f5f5;
     
 }
+
 .navbar a{
 
     /* color:aqua; */
@@ -210,4 +212,12 @@ form button:hover
     background-color: gray;
     color: white;
     box-shadow: 0 12px 16px 0 aqua,0 17px 50px 0 aqua;
+}
+
+.try {
+    border:none;
+}
+.f button{
+    align-items: center;
+    margin-bottom: 30px;
 }
