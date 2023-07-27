@@ -4,7 +4,6 @@ body{
     text-align:center;
     align-items: center;
     justify-content: center;
-    padding-left: 20px;
 }
 .mnc{
     background-color: #f5f5f5;
@@ -220,4 +219,8 @@ form button:hover
 .f button{
     align-items: center;
     margin-bottom: 30px;
+}
+
+.in-spacing{
+    padding-left: 35px;
 }
