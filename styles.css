@@ -71,9 +71,6 @@ ul{
     max-width: 37px;
     max-height: 37px;
 }
-/* button{
-    display: flex;
-} */
 
 .home{
     max-width:350px;
@@ -151,7 +148,6 @@ form input,textarea,select,button{
 
 form button:hover
 {
-    /* border:2px solid #f9f9f9; */
     background-color:rgb(23, 38, 44);
     color:#f9f9f9;
 }
