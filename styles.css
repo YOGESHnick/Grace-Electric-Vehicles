@@ -194,8 +194,8 @@ form button:hover
     padding: 1.7em;
 }
 
-
 .card img{
+    float: left;
     max-width: 300px;
     max-height: 300px;
     min-width: 300px;
