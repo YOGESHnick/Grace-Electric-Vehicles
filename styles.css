@@ -224,3 +224,7 @@ form button:hover
 .in-spacing{
     padding-left: 35px;
 }
+
+.address p{
+    font-size: 10px;
+}
