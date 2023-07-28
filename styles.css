@@ -30,6 +30,7 @@ body{
 
 .bottom-container {
     text-align: center;
+    margin-top: 2rem;
     padding:30px;
     /* background-color: #f5f5f5; */
     background-color:rgb(23, 38, 44);
@@ -43,7 +44,6 @@ body{
     /* margin-left: 50px; */
     /* margin-top:30px; */
     text-decoration: none;
-
 }
 .bottom-container a:hover{
     color:gray;
@@ -190,7 +190,7 @@ form button:hover
 
 .card{
     align-items: center;
-    /* border: 3px solid aqua; */
+    border: 2px solid #5CE1E6;
     padding: 1.7em;
 }
 
@@ -198,6 +198,8 @@ form button:hover
 .card img{
     max-width: 300px;
     max-height: 300px;
+    min-width: 300px;
+    min-height: 300px;
 }
 
 .card button{
@@ -210,7 +212,8 @@ form button:hover
 .card button:hover {
     background-color: gray;
     color: white;
-    box-shadow: 0 12px 16px 0 aqua,0 17px 50px 0 aqua;
+    /* box-shadow: 0 12px 16px 0 aqua,0 17px 10px 0 aqua; */
+    box-shadow: 3px 5px 5px 0 aqua ,3px 5px 5px 0 aqua;
 }
 
 .try {
@@ -227,4 +230,11 @@ form button:hover
 
 .address p{
     font-size: 10px;
+}
+
+.mihos img{
+    /* min-height: 275px; */
+    /* max-height: 275px; */
+    min-width: 315px;
+    max-width: 315px;
 }
