@@ -141,11 +141,22 @@ form input,textarea,select,button{
     border-bottom: 2px solid black;
     margin-top:25px;
 }
+form button{
+    width:25%;
+    background-color: black;
+    color:#f5f5f5;
+}
+/* form a:hover{
+    color:#f5f5f5;
+    background-color: #5CE1E6;
+} */
 
 form button:hover
 {
-    background-color:rgb(23, 38, 44);
-    color:#f9f9f9;
+    /* background-color:rgb(23, 38, 44);
+    color:#f9f9f9; */
+    color:#f5f5f5;
+    background-color: #5CE1E6;
 }
 
 ::placeholder {
@@ -192,6 +203,8 @@ form button:hover
     align-items: center;
     border: 2px solid #5CE1E6;
     padding: 1.7em;
+    /* display: flex; */
+    /* flex-direction: row; */
 }
 
 .card img{
@@ -237,4 +250,9 @@ form button:hover
     /* max-height: 275px; */
     min-width: 315px;
     max-width: 315px;
+}
+
+.btna{
+    text-decoration: none;
+    color: #f5f5f5;
 }
