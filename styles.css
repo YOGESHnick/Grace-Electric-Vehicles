@@ -56,9 +56,6 @@ ul{
     list-style-type: none;
 }
 
-.zandertech{
-    font-size: 8px;
-}
 .logo{
     max-width: 37px;
     max-height: 37px;
@@ -264,3 +261,26 @@ form button:hover
 .eco{
     color:#5CE1E6;
 }
+
+
+footer
+{
+    color:white;
+    background-color: rgb(23, 38, 44);
+    padding:auto;
+    text-align: center;
+    font-size: 10px;
+    padding:30px 0 17px 0;
+
+}
+footer a
+{
+    color:white;
+    text-decoration: none;
+}
+footer a:hover 
+{
+    /* color:#5CE1E6; */
+    color: aqua;
+}
+
