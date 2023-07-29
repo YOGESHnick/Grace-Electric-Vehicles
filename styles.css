@@ -289,3 +289,15 @@ footer a:hover
     margin-left: 20px;
 }
 
+.models-available{
+    padding: 1em;
+}
+.models-available p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.models-available h3 {
+    font-weight: 800;
+    margin-bottom:3rem;
+    margin-top: 3rem;
+}
