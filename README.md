@@ -11,6 +11,8 @@ The motto of the dealership is :
 # Tech Stack used:
 + HTML 5
 + CSS 3
++ JavaScript (to be added soon )
 + BootStrap
 + Git
 + Github (as tool for CI/CD )
+  
