@@ -8,6 +8,9 @@ The motto of the dealership is :
 
  > ## This is a completely responsive website !
 
+
+
+
 # Tech Stack used:
 + HTML 5
 + CSS 3
