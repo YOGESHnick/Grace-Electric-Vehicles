@@ -222,6 +222,10 @@ form button:hover
     color:#f5f5f5;
 }
 
+.card h1,p{
+    font-weight: bold;
+}
+
 .card button:hover {
     /* background-color: gray; */
     background-color: rgb(23, 38, 44);
