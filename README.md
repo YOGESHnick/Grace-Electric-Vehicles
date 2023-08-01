@@ -16,6 +16,6 @@ The motto of the dealership is :
 + CSS 3
 + JavaScript 
 + BootStrap
-+ Git
++ Git (CLI)
 + Github (as tool for CI/CD )
   
