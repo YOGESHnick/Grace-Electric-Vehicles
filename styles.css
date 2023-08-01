@@ -200,7 +200,7 @@ form button:hover
     align-items: center;
     border: 2px solid #5CE1E6;
     padding: 1.7em;
-    font-family: Electrolize;
+    /* font-family: Electrolize; */
     font-style: bold;
     font-weight: 900;
     background-color: #f5f5f5;
@@ -224,6 +224,12 @@ form button:hover
 
 .card h1,p{
     font-weight: bold;
+}
+.card p{
+    font-size: 20px;
+}
+.card h1{
+    font-family: Electrolize;
 }
 
 .card button:hover {
