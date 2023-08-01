@@ -317,6 +317,25 @@ footer a:hover
 } */
 
 iframe{
+    min-width: 90%;
     max-width: 325px;
     max-height: 325px;
+}
+
+.con-det {
+    color: black;
+}
+.con-det a{
+    color: black;
+    text-decoration: none;
+}
+.con-det a:hover {
+    color: gray;
+}
+.con-det h5,p{
+    margin-top: 20px;
+}
+
+.mr_p{
+    margin-top: 20px;
 }
