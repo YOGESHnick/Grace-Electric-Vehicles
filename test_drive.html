@@ -44,18 +44,20 @@
 
 
 
-  <div class=" row form">
+  <div class=" row form test_drive">
+    <h3>Book a test drive !</h3>
     <div class="col-sm-12 col-lg-6">
       <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3943.4965303586805!2d77.71104831478452!3d8.739263093722197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwNDQnMjEuNCJOIDc3wrA0Mic0Ny43IkU!5e0!3m2!1sen!2sau!4v1690887977553!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     
     <div class="col-sm-12 col-lg-6">
       <form action="https://formsubmit.co/yogeshshamlin@gmail.com" method="POST">
-        <h3>Leave us a message !</h3>
+        <h3>Share us little details, book the drive !</h3>
         <input type="text" id="name" name="name" placeholder="Your Name" required>
         <input type="text" id="phone" name="phone" placeholder="Phone no." required>
+        <input type="email" id="email" name="email" placeholder="E-mail" required>
         <select name="cars" id="cars">
-          <option value="value" selected>select model</option>
+          <option value="value" selected>Select model</option>
           <option value="mihos">mihos</option>
           <option value="wolf">wolf</option>
           <option value="wolf eco">wolf eco</option>
@@ -67,6 +69,22 @@
           <option value="not sure !">not sure !</option>
         </select>
         
+        <select name="slot" id="sot">
+          <option value="value" selected>Select time slot</option>
+          <option value="10:00 AM - 11:00 AM">10:00 AM - 11:00 AM</option>
+          <option value="11:00 AM - 12:00 PM">11:00 AM - 12:00 PM</option>
+          <option value="12:00 PM - 1:00 PM">12:00 PM - 1:00 PM</option>
+          <option value="1:00 PM - 2:00 PM">1:00 PM - 2:00 PM</option>
+          <option value="2:00 PM - 3:00 PM">2:00 PM - 3:00 PM</option>
+          <option value="3:00 PM - 4:00 PM">3:00 PM - 4:00 PM</option>
+          <option value="4:00 PM - 5:00 PM">4:00 PM - 5:00 PM</option>
+          <option value="5:00 PM - 6:00 PM">5:00 PM - 6:00 PM</option>
+          <option value="6:00 PM - 7:00 PM">6:00 PM - 7:00 PM</option>
+          <option value="7:00 PM - 8:00 PM">7:00 PM - 8:00 PM</option>
+          <option value="8:00 PM - 8:30 PM">8:00 PM - 8:30 PM</option>
+          <option value="not sure !">not sure !</option>
+        </select>
+
         <input type="text" id="city" name="city" placeholder="city" required>
         <textarea id="message" rows="4" name="Queries(If any)" placeholder="Queries(If any)"></textarea>
         <button type="submit"> <i class="fa-solid fa-paper-plane fa-fade"></i>Send</button>
