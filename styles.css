@@ -315,3 +315,8 @@ footer a:hover
 /* .bottom-container a:hover{
     color: aqua;
 } */
+
+iframe{
+    max-width: 325px;
+    max-height: 325px;
+}
