@@ -10,6 +10,10 @@ body{
     
 }
 
+.top-logo{
+    margin-right: 10px;
+}
+
 .navbar a{
 
     /* color:aqua; */
@@ -366,4 +370,10 @@ iframe{
     justify-items: center;
     justify-content: center;
     /* margin-left: 10px; */
+}
+
+.test_submit{
+    background-color:#a0a1a3;
+    font-weight:900;
+    color: black;
 }
