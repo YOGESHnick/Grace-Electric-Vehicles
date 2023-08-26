@@ -20,4 +20,4 @@ The motto of the dealership is :
 + Git (CLI)
 + Github (as a tool for CI/CD )
   
-> 2023 © ZanderTech
+> **©** 2023 ZanderTech
