@@ -6,9 +6,8 @@ Grace Electric Vehicles is a  **Franchised EV dealer of JOY<sub>eBIKE</sub>**   
 The motto of the dealership is :
  **No Fuel, No Pollution, No Noise**
  
- Check the website, live [Here](https://yogeshnick.github.io/Grace-Electric-Vehicles/)
+ Check the website, live [Here](https://grace-electric-vehicles.netlify.app/)
 
- > ## This is a completely responsive website !
 
 
 
@@ -19,5 +18,6 @@ The motto of the dealership is :
 + JavaScript 
 + BootStrap
 + Git (CLI)
-+ Github (as tool for CI/CD )
++ Github (as a tool for CI/CD )
   
+> 2023 © ZanderTech
