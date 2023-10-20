@@ -9,13 +9,7 @@ The motto of the dealership is :
  Check the website, live [Here](https://grace-electric-vehicles.netlify.app/)
 
 
-```
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+```diff text in green```
 
 
 
