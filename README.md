@@ -10,9 +10,10 @@ The motto of the dealership is :
 
 
 
-```diff
+
+diff
 + text in green
-```
+
 
 # Tech Stack used:
 + HTML 5
