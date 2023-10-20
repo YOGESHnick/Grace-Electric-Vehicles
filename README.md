@@ -21,7 +21,8 @@ The motto of the dealership is :
 + Github (as a tool for CI/CD )
 
 
-## Report after two months of deployment : Date.format(new Date("10 Jan 2011"), "%B %d, %Y"); 
+## Report after two months of deployment : 
+Date.format(new Date("10 Jan 2011"), "%B %d, %Y"); 
  It's been two months since I created this website and deployed it online\
  The site has brought up to `33 %` increase to the dealership's customer visit rate
   
