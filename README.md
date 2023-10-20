@@ -12,14 +12,6 @@ The motto of the dealership is :
 + 20th October,2023
 ```
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
 
 # Tech Stack used:
 + HTML 5
