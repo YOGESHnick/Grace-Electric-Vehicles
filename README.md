@@ -19,5 +19,9 @@ The motto of the dealership is :
 + BootStrap
 + Git (CLI)
 + Github (as a tool for CI/CD )
+
+
+  ## Report after two months of deployment :
+  It's been two months since I created this website and deployed it online
   
 > **©** 2023 ZanderTech
