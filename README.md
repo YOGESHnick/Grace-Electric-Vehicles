@@ -24,7 +24,7 @@ The motto of the dealership is :
 ## Report after two months of deployment:
 `20th October,2023`  
 #
- It's been <div style="background-color: green;">two months</div> since I created this website and deployed it online\
+ It's been <div style="background-color: green;">`two months`</div> since I created this website and deployed it online\
  The site has brought up to `33 %` increase to the dealership's customer visit rate
   
 > **©** 2023 ZanderTech
