@@ -9,6 +9,13 @@ The motto of the dealership is :
  Check the website, live [Here](https://grace-electric-vehicles.netlify.app/)
 
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 
@@ -28,3 +35,4 @@ The motto of the dealership is :
  The site has brought up to `33 %` increase to the dealership's customer visit rate
   
 > **©** 2023 ZanderTech
+
