@@ -8,11 +8,6 @@ The motto of the dealership is :
  
  Check the website, live [Here](https://grace-electric-vehicles.netlify.app/)
 
-```diff
-+  20th October,2023 
-```
-
-
 # Tech Stack used:
 + HTML 5
 + CSS 3
