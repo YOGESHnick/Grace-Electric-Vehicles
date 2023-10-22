@@ -24,4 +24,3 @@ The motto of the dealership is :
   
 > **©** 2023 ZanderTech
 
-
