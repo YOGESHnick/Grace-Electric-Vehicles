@@ -16,7 +16,6 @@ The motto of the dealership is :
 + Git (CLI)
 + Github (as a tool for CI/CD )
 
-
 ## Report after two months of deployment:
 ` 20th October,2023`  
 #
