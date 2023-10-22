@@ -9,7 +9,7 @@ The motto of the dealership is :
  Check the website, live [Here](https://grace-electric-vehicles.netlify.app/)
 
 # Tech Stack used:
-+ HTML 5
++ HTML 5 
 + CSS 3
 + JavaScript 
 + BootStrap
